@@ -1,4 +1,5 @@
 # see (again?)
+the beginners
 http://www.imdb.com/list/ls000142923/
 short circuit
 dune
@@ -31,10 +32,11 @@ johnny mnemonic
 # !
 amour
 the florida project
+synecdoche, new york
 
 
 # feel good
-livet under vann
+the life aquatic with steve zissou
 fucking åmål
 a scene at the sea
 megane (glasses)
@@ -62,7 +64,7 @@ point break
 gattaca
 
 
-# pretttty prettty prettygood
+# good
 nowhere
 kumiko, the treasure hunter
 night on earth
@@ -75,13 +77,14 @@ the square
 dog day afternoon
 the lobster
 the rules of everything
+moonrise kingdom
 
 
 # classics
 falling down
 dirty dancing
 blade runner
-terminator 2
+terminator 2: jugdement day
 the cube
 wallace & gromit: the wrong trousers
 rambo: first blood
@@ -90,6 +93,8 @@ alien
 seven samurai
 toy story
 flåklypa grand prix
+pulp fiction
+the 	big lebowski
 
 
 # documentaries
