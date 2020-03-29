@@ -18,7 +18,6 @@ shogun assassin
 the doom generation
 chungking express
 easy rider
-morvern callar
 coffee and cigarettes
 mystery train
 tank girl
@@ -89,6 +88,7 @@ the wayward cloud
 shoplifters
 the distinguished citizen
 turist
+morvern callar
 
 
 # classics
