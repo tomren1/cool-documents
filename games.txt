@@ -1,8 +1,8 @@
 **** check out ****
 
-hylics 2				mason lindroth
+hylics 2                mason lindroth
 https://seansleblanc.itch.io/
-paratopic				arbitrarymetric
+paratopic               arbitrarymetric
 gorogoa					jason roberts
 mini metro				dinosaur polo club
 the zium museum			  curated by michael berto 
@@ -11,7 +11,7 @@ freeways				captain games
 hylics					mason lindroth
 hyperrogue				zeno rogue
 star trek: 25th anniversary		interplay
-world of horror			  panstasz
+world of horror         panstasz
 the longing				studio seufz
 its winter				sad3d
 
@@ -20,7 +20,7 @@ its winter				sad3d
 
 flywrench				messhof games
 luftrausers				vlambeer
-mountain 2.0				david oreilly
+mountain 2.0            david oreilly
 proteus					ed key & david kanaga
 
 
@@ -36,7 +36,7 @@ small talk				pale room
 
 pikuniku				rémi forcadell, arnaud de bock, calum bowen & alan zucconi
 mundo lixo				terri vellmann
-miserable pocket man			vladimir storm
+miserable pocket man    vladimir storm
 kids					playables
 her story				sam barlow
 proteus					ed key & david kanaga
@@ -77,7 +77,7 @@ orchids to dusk				pol clarissou
 river bones 				turnfollow
 the fabolous screech			jonas & verena kyratzes
 game studies				pippin barr
-a series of gunshots			pippin barr
+a series of gunshots    pippin barr
 pole riders				bennett foddy
 berband					tom van den boogaart
 vesper.5				michael brough
